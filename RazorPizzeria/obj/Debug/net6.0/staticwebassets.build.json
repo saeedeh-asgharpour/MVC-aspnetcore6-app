@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F4XO7ZDSVlByBDyurh0xkYLpbR2cmUBOdiQbk+bAuJ8=",
+  "Hash": "aP65r6AW+2TEuhjvUPcDa4C/sAZZG5ec8AKIlb331Jc=",
   "Source": "RazorPizzeria",
   "BasePath": "_content/RazorPizzeria",
   "Mode": "Default",
@@ -187,12 +187,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Mushroom.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alice\\Downloads\\dotnetcore6\\practice\\RazorPizzeria\\RazorPizzeria\\wwwroot\\images\\Pizzas\\order.PNG",
+      "Identity": "C:\\Users\\Alice\\Downloads\\dotnetcore6\\practice\\RazorPizzeria\\RazorPizzeria\\wwwroot\\images\\Pizzas\\order.jpg",
       "SourceId": "RazorPizzeria",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Alice\\Downloads\\dotnetcore6\\practice\\RazorPizzeria\\RazorPizzeria\\wwwroot\\",
       "BasePath": "_content/RazorPizzeria",
-      "RelativePath": "images/Pizzas/order.PNG",
+      "RelativePath": "images/Pizzas/order.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,7 +201,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\order.PNG"
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\order.jpg"
     },
     {
       "Identity": "C:\\Users\\Alice\\Downloads\\dotnetcore6\\practice\\RazorPizzeria\\RazorPizzeria\\wwwroot\\images\\Pizzas\\Seafood.jpg",
